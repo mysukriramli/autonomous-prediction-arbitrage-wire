@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-31T04:26:22.176689+00:00",
+    "data_sources": [
+      "Polymarket API",
+      "Global News RSS",
+      "Polygon Gas Station API"
+    ],
+    "network_gas_fee_usd": 0.01,
+    "schema_version": "1.0.0"
+  },
+  "arbitrage_signals": []
+}
